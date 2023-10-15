@@ -1,5 +1,5 @@
 :: UPDATE THESE LINES ACCORDING TO YOUR PROJECT STRUCTURE
-
+:: teszt
 set PRIVATE_KEY_PATH="C:\ssh\kingfishair.pem"
 
 set SITE_DOMAIN="kingfishair.progmasters.hu"
